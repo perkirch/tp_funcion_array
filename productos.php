@@ -60,7 +60,7 @@ function datos_productos(){
 
         [
             'id' => '8',
-            'imagen'=> './imagenes/zapato.jpg',
+            'imagen'=> './imagenes/alpargata.jpg',
             'nombre'=> 'Alpargata',
             'precio'=> '$21.400',
         ],
